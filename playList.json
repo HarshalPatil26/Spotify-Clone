@@ -1,0 +1,97 @@
+{
+  "songs": [
+    {
+      "title": "Dil Ibadat",
+      "image": "https://c.saavncdn.com/653/Dil-Ibadat-Hindi-2022-20220729121512-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Dil%20Ibaadat%20Full%20Video%20-%20Tum%20Mile_Emraan%20Hashmi%2CSoha%20Ali%20Khan_Pritam_KK_Sayeed%20Quadri.mp3"
+    },
+    {
+      "title": "I Love It",
+      "image": "https://c.saavncdn.com/881/I-Love-It-English-2012-20190607045233-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Icona%20Pop%20-%20I%20Love%20It%20(feat.%20Charli%20XCX)%20%5BOFFICIAL%20VIDEO%5D.mp3"
+    },
+    {
+      "title": "Despacito",
+      "image": "https://c.saavncdn.com/580/Despacito-Latin-2017-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Luis%20Fonsi%20-%20Despacito%20ft.%20Daddy%20Yankee.mp3"
+    },
+    {
+      "title": "Whenever",
+      "image": "https://c.saavncdn.com/023/Laundry-Service-English-2001-20190524114126-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Shakira%20-%20Whenever%2C%20Wherever%20(Official%20HD%20Video).mp3"
+    },
+    {
+      "title": "Stree 2",
+      "image": "https://c.saavncdn.com/373/Stree-2-Hindi-2024-20240828083834-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/01%20-%20Aaj%20Ki%20Raat%20(320%20Kbps).mp3"
+    }
+  ],
+  
+  "songsList": [
+    {
+      "title": "Illuminati",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b54cdfbfaa828674ffecd12c",
+      "mp3":"http://127.0.0.1:5500/songs/1.mp3"
+    },
+    {
+      "title": "Unstoppable",
+      "image": "https://i.scdn.co/image/ab67616d00001e0249e0134c686547c28b7c999f",
+      "mp3": "http://127.0.0.1:5500/songs/2.mp3"
+    },
+    {
+      "title": "Urbania",
+      "image": "https://artlist-images.imgix.net/916567_Cosmonkey_-_Urbania_-_A.jpg?auto=format&fit=max&w=1920",
+      "mp3": "http://127.0.0.1:5500/songs/3.mp3"
+    },
+    {
+      "title": "Rasa Ini",
+      "image": "https://www.pagalworld.com.so/uploads/thumb/sft48/23863_4.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/4.mp3"
+    },
+    {
+      "title": "I See Your Forever",
+      "image": "https://www.pagalworld.com.so/uploads/thumb/sft23/11241_4.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/5.mp3"
+    },
+    {
+      "title": "Steal My Girl",
+      "image": "https://www.pagalworld.com.so/uploads/thumb/sft41/20461_4.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/6.mp3"
+    },
+    {
+      "title": "Sky",
+      "image": "https://www.pagalworld.com.so/uploads/thumb/sft29/14412_4.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/7.mp3"
+    },
+    {
+      "title": "Alone",
+      "image": "https://www.pagalworld.com.so/uploads/thumb/sft41/20474_4.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Marshmello%20Alone(PagalWorld.com.so).mp3"
+    },
+    {
+      "title": "Stree 2",
+      "image": "https://c.saavncdn.com/373/Stree-2-Hindi-2024-20240828083834-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/01%20-%20Aaj%20Ki%20Raat%20(320%20Kbps).mp3"
+    },
+    {
+      "title": "Dil Ibadat",
+      "image": "https://c.saavncdn.com/653/Dil-Ibadat-Hindi-2022-20220729121512-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Dil%20Ibaadat%20Full%20Video%20-%20Tum%20Mile_Emraan%20Hashmi%2CSoha%20Ali%20Khan_Pritam_KK_Sayeed%20Quadri.mp3"
+    },
+    {
+      "title": "I Love It",
+      "image": "https://c.saavncdn.com/881/I-Love-It-English-2012-20190607045233-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Icona%20Pop%20-%20I%20Love%20It%20(feat.%20Charli%20XCX)%20%5BOFFICIAL%20VIDEO%5D.mp3"
+    },
+    {
+      "title": "Despacito",
+      "image": "https://c.saavncdn.com/580/Despacito-Latin-2017-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Luis%20Fonsi%20-%20Despacito%20ft.%20Daddy%20Yankee.mp3"
+    },
+    {
+      "title": "Whenever",
+      "image": "https://c.saavncdn.com/023/Laundry-Service-English-2001-20190524114126-500x500.jpg",
+      "mp3": "http://127.0.0.1:5500/songs/Shakira%20-%20Whenever%2C%20Wherever%20(Official%20HD%20Video).mp3"
+    }
+  ]
+}
